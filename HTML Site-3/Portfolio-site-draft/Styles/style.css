@@ -1,0 +1,26 @@
+h1 {
+  font-size: 250%;
+  color: white;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: darkgray;
+}
+p {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 150%;
+}
+
+body {
+  background-color: gray; 
+}
+img {
+  max-width: 50%;
+  height: auto;
+}
+ul {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 125%
+}
